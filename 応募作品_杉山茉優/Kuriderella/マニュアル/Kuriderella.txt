@@ -9,11 +9,11 @@
 ・NVIDIA GetForce RTX
 
 【開発環境】
-Visual Studio 2017
-Adobe Photoshop 2020
+・Visual Studio 2017
+・Adobe Photoshop 2020
 
 【制作人数】
-1人で制作しました
+・1人で制作しました
 
 ・制作箇所
 BackFore.cpp

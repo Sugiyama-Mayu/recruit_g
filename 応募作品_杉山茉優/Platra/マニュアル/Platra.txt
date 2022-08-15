@@ -16,7 +16,7 @@
 ・Blender
 
 【制作人数】
-1人で制作しました
+・1人で制作しました
 
 ・制作箇所
 FbxSkinMesh.hlsli
