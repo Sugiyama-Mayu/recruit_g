@@ -32,7 +32,7 @@ root
  | |-gameData.txt       …ゲーム内のセーブデータ保存で使用されるファイルです。
  |
  |--マニュアル
- |  |-Platra.txt                  …ゲームの説明テキストです。
+ |  |-Platra.txt                  …ゲームの説明テキストで制作箇所も書いてあります。
  |  |-操作説明.txt                …ゲームの操作方法説明テキストです。
  |  |-Platra_作品紹介動画URL.txt  …ゲームの作品紹介動画を閲覧するためのURLがあります。
  |  
@@ -50,7 +50,7 @@ root
  | |-Sweets Manufacturer.sln 
  |
  |--マニュアル
- |  |-SweetsManufacturer.txt                   …ゲームの説明テキストです。
+ |  |-SweetsManufacturer.txt                   …ゲームの説明テキストで担当箇所も書いてあります。
  |  |-操作説明.pdf                             …ゲームの操作方法説明PDFです。
  |  |-Sweets Manufacturer_作品紹介動画URL.txt  …ゲームの作品紹介動画を閲覧するためのURLがあります。
  |  
@@ -74,7 +74,7 @@ root
  | |-scoreF.txt        …ゲーム内のランキング保存で使用されるファイルです。 
  |
  |--マニュアル
- |  |-Kuriderella.txt                   …ゲームの説明テキストです。
+ |  |-Kuriderella.txt                   …ゲームの説明テキストで制作箇所も書いてあります。
  |  |-操作説明.txt                      …ゲームの操作方法説明テキストです。
  |  |-Kuriderella_作品紹介動画URL.txt   …ゲームの作品紹介動画を閲覧するためのURLがあります。
 
